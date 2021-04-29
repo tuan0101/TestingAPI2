@@ -1,1 +1,5 @@
-{"userList":[{"userName": "ABCDEFG", "totalScore": 1200, "address": "address"}, {"userName": "tuan", "totalScore": 300, "address": "address1"}]}
+{"userList":[
+  {"userName": "ABCDEFG", "totalScore": 1200, "address": "address"}, 
+  {"userName": "tuan", "totalScore": 300, "address": "address1"}
+]
+}
