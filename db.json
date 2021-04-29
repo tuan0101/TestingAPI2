@@ -1,1 +1,1 @@
-{"rankList":[{"userName": "ABCDEFG", "avatar" : 5, "team": "sweet", "cityName": "Philly", "totalScore": 1200, "rank": 100}]}
+{"userList":[{"userName": "ABCDEFG", "totalScore": 1200, "address": "address"}, {"userName": "tuan", "totalScore": 300, "address": "address1"}]}
